@@ -1,0 +1,9 @@
+.footer{
+    background-color: green;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 10px;
+    left: 35px;
+
+    
+}
