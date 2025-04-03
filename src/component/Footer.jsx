@@ -3,11 +3,21 @@ import React from 'react'
 
 function Footer() {
   return (
-    <div className='footer' >Footer
+    <div className='footer' >
+      <h1>FoodMarte</h1>
    
-       <h4>FACEBOOK</h4> 
-       <h4>INSTAGRAM</h4> 
-       <h4>TWITTER</h4> 
+   <h2>A propos</h2>
+     <p>La saveur parle d'elle même</p>
+   <h2>Horaire</h2>
+   <p>Lundi au Samedi(6H-00H)</p>
+     
+     <p  className='bar'>
+     <h4 className='face' >FACEBOOK</h4> 
+       <h4 className='insta'>INSTAGRAM</h4> 
+       <h4 className='twi'>TWITTER</h4> 
+       <img src="./facebook-instagram-twitter-logo-png-transparent-images-thumbnail-1697953629-removebg-preview.png" alt="icone" />
+     </p>
+       
     </div>
     
   )
