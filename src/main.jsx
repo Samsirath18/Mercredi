@@ -11,7 +11,7 @@ import Footer from './component/Footer.jsx'
 createRoot(document.getElementById('root')).render(
   <StrictMode>
     
-    <NavBar menuAcif='accueil' color='red' />
+    <NavBar/>
     <Silde />
     <Footer/>
   </StrictMode>,
