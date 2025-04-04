@@ -6,9 +6,9 @@ function Footer() {
     <div className='footer' >
       <h1>FoodMarte</h1>
    
-   <h2>A propos</h2>
+   <h2><a href="aPropos">A propos</a></h2>
      <p>La saveur parle d'elle même</p>
-   <h2>Horaire</h2>
+   <h2><a href="horaire">Horaire</a></h2>
    <p>Lundi au Samedi(6H-00H)</p>
      
      <p  className='bar'>
